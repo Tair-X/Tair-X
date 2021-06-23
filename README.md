@@ -1,6 +1,7 @@
 # 👋🏻 Hi, my name is **Tair Xasancanov**!
 ## I'm a  *Front-end developer* from Russia.
 ### Languages and Technologies 
+### Check my website: [dnotrad.io](https://tair-x.github.io/Paralax_Effect_Mouse_Movement_29/)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
 ![ReactJs](https://img.shields.io/badge/-ReactJs-090909?style=for-the-badge&logo=React)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)
