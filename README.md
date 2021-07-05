@@ -11,7 +11,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
 ### ✉️ Mail me: tair.work2000@gmail.com
-### 📝 Interesting tasks:https://codepen.io/tair-x
+### 📝 Interesting tasks: https://codepen.io/tair-x
 ### 🌐 Telegram @Tair_X
 #
 > A good book is like a conversation with a smart person. <br/>
