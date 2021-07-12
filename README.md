@@ -20,6 +20,7 @@ My works:
 🖥️https://tair-x.github.io/Portfolio_Site_Layout/
 🖥️https://tair-x.github.io/Adaptive_Layout_Of_The_Website_Of_Online_Furniture_Store/
 🖥️https://tair-x.github.io/Responsive_Bakery_Website_Layout/
+🖥️https://tair-x.github.io/Responsive_Website_For_Investment_Platform/
 etc.
 #
 > A good book is like a conversation with a smart person. <br/>
