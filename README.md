@@ -24,6 +24,7 @@ My works:
 🖥️https://tair-x.github.io/Responsive_Website_For_Investment_Platform/
 🖥️https://tair-x.github.io/Parallax_Animation_Matthew_Wagerfields_7/
 🖥️https://tair-x.github.io/Responsive_SiteLayout_Is_Designed_For_Communication/
+🖥️https://tair-x.github.io/Shop_Sneakers_On_React/
 etc.
 #
 > A good book is like a conversation with a smart person. <br/>
