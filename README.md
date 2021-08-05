@@ -27,5 +27,5 @@ My works:
 🖥️https://tair-x.github.io/Shop_Sneakers_On_React/
 etc.
 #
-> A good book is like a conversation with a smart person. <br/>
-> ***Leo Tolstoy***
+> "Failure is an option here. If things are not failing, you are not innovating enough." <br/>
+> ***Elon Musk***
