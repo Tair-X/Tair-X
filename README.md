@@ -1,7 +1,6 @@
 # 👋🏻 Hi, my name is **Tair Xasancanov**!
 ## I'm a  *Front-end developer* from Russia.
 ### Check my website: [Tair-X.io](https://tair-x.github.io/Portfolio_Site_Layout/)
-### Check my resume: https://bit.ly/38qjNCe
 ### Languages and Technologies 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
 ![ReactJs](https://img.shields.io/badge/-ReactJs-090909?style=for-the-badge&logo=React)
