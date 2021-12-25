@@ -1,8 +1,8 @@
 # 👋🏻 Привет, меня зовут **Таир Хасанджанов**!
-##Я * Front-end разработчик * из Азербайджана.
+## Я * Front-end разработчик * из Азербайджана.
 ### Проверить мой сайт: [Tair-X.io](https://tair-x.github.io/Portfolio_Site_Layout/)
 ### Проверить мое резюме:https://kazan.hh.ru/resume/117aaec6ff083ffc560039ed1f544165576933
-###Языки и технологии
+### Языки и технологии
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
 ![ReactJs](https://img.shields.io/badge/-ReactJs-090909?style=for-the-badge&logo=React)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)
