@@ -16,7 +16,7 @@ etc.
 ### 📝 Интересные задачи: https://codepen.io/tair-x
 ### 🌐 Телеграм @Tair_X
 
-Мои работы:
+### Мои работы:
 🖥️https://tair-x.github.io/Lux_Trader_Layout/
 🖥️https://www.sdvor.com/
 🖥️https://socialape-7d0b6.firebaseapp.com/
@@ -34,7 +34,7 @@ etc.
 🖥️https://tair-x.github.io/Shop_Sneakers_On_React/
 и так далее
 #
-Мои сертификаты:
+### Мои сертификаты:
 📚https://fructcode.com/ru/certificates/09216f2207269cf07ecba2ea68487579/ru/📚https://fructcode.com/ru/certificates/1d3254ebb5f755f48171f27889dc2546/ru/📚https://fructcode.com/ru/certificates/42ed3c48219697ca5d953406daeb2643/ru/📚https://fructcode.com/ru/certificates/42ed3c48219697ca5d953406daeb2643/ru/📚https://fructcode.com/ru/certificates/8de2034cba5c0561de47541416d12415/ru/📚https://fructcode.com/ru/certificates/e0687325b79264187af81d5c1f0cb871/ru/
 > "Знание только тогда знание, когда оно приобретено уси­лиями своей мысли, а не памятью.." <br/>
 > ***Лев Толстой***
