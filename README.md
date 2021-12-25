@@ -18,6 +18,7 @@ etc.
 
 Мои работы:
 🖥️https://tair-x.github.io/Lux_Trader_Layout/
+🖥️https://www.sdvor.com/
 🖥️https://socialape-7d0b6.firebaseapp.com/
 🖥️https://tair-x.github.io/Landing_Page_Layout/
 🖥️https://jira.ivorreic.com/project/board
