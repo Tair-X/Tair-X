@@ -21,9 +21,7 @@ etc.
 🖥️https://www.sdvor.com/
 🖥️https://socialape-7d0b6.firebaseapp.com/
 🖥️https://tair-x.github.io/Landing_Page_Layout/
-🖥️https://jira.ivorreic.com/project/board
 🖥️https://tair-x.github.io/Adaptive_Layout_Of_The_Website_Of_The_Law_Office/
-🖥️https://getmoose.in/
 🖥️https://tair-x.github.io/Adaptive_Layout_Of_The_Website_Of_Online_Furniture_Store/
 🖥️https://tair-x.github.io/Responsive_Bakery_Website_Layout/
 🖥️https://tair-x.github.io/Responsive_Website_For_Investment_Platform/
