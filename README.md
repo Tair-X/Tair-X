@@ -1,5 +1,5 @@
-# 👋🏻 Hi, my name is **Tair Xasancanov**!
-## I'm a  *Front-end developer* from Russia.
+# 👋🏻 Привет, меня зовут **Таир Хасанджанов**!
+##Я * Front-end разработчик * из России.
 ### Check my website: [Tair-X.io](https://tair-x.github.io/Portfolio_Site_Layout/)
 ### Check my resume:https://kazan.hh.ru/resume/117aaec6ff083ffc560039ed1f544165576933
 ### Languages and Technologies 
