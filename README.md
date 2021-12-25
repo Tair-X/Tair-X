@@ -1,8 +1,8 @@
 # 👋🏻 Привет, меня зовут **Таир Хасанджанов**!
 ##Я * Front-end разработчик * из России.
-### Check my website: [Tair-X.io](https://tair-x.github.io/Portfolio_Site_Layout/)
-### Check my resume:https://kazan.hh.ru/resume/117aaec6ff083ffc560039ed1f544165576933
-### Languages and Technologies 
+### Проверить мой сайт: [Tair-X.io](https://tair-x.github.io/Portfolio_Site_Layout/)
+### Проверить мое резюме:https://kazan.hh.ru/resume/117aaec6ff083ffc560039ed1f544165576933
+###Языки и технологии
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
 ![ReactJs](https://img.shields.io/badge/-ReactJs-090909?style=for-the-badge&logo=React)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)
@@ -30,5 +30,5 @@ My works:
 🖥️https://tair-x.github.io/Shop_Sneakers_On_React/
 etc.
 #
-> "Failure is an option here. If things are not failing, you are not innovating enough." <br/>
-> ***Elon Musk***
+> "Знание только тогда знание, когда оно приобретено уси­лиями своей мысли, а не памятью.." <br/>
+> ***Лев Толстой***
