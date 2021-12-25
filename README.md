@@ -12,14 +12,17 @@
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 ![SCSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
 etc.
-### ✉️ Mail me: tair.work2000@gmail.com
-### 📝 Interesting tasks: https://codepen.io/tair-x
-### 🌐 Telegram @Tair_X
+### ✉️ Моя почта: tair.work2000@gmail.com
+### 📝 Интересные задачи: https://codepen.io/tair-x
+### 🌐 Телеграм @Tair_X
 
-My works:
+Мои работы:
 🖥️https://tair-x.github.io/Lux_Trader_Layout/
+🖥️https://socialape-7d0b6.firebaseapp.com/
 🖥️https://tair-x.github.io/Landing_Page_Layout/
+🖥️https://jira.ivorreic.com/project/board
 🖥️https://tair-x.github.io/Adaptive_Layout_Of_The_Website_Of_The_Law_Office/
+🖥️https://getmoose.in/
 🖥️https://tair-x.github.io/Adaptive_Layout_Of_The_Website_Of_Online_Furniture_Store/
 🖥️https://tair-x.github.io/Responsive_Bakery_Website_Layout/
 🖥️https://tair-x.github.io/Responsive_Website_For_Investment_Platform/
@@ -28,7 +31,7 @@ My works:
 🖥️https://tair-x.github.io/Responsive_SiteLayout_Is_Designed_For_Communication/
 🖥️https://tair-x.github.io/Relvise_Site_Layout/
 🖥️https://tair-x.github.io/Shop_Sneakers_On_React/
-etc.
+и так далее
 #
 > "Знание только тогда знание, когда оно приобретено уси­лиями своей мысли, а не памятью.." <br/>
 > ***Лев Толстой***
