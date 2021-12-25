@@ -30,7 +30,7 @@ etc.
 🖥️https://tair-x.github.io/Responsive_SiteLayout_Is_Designed_For_Communication/
 🖥️https://tair-x.github.io/Relvise_Site_Layout/
 🖥️https://tair-x.github.io/Shop_Sneakers_On_React/
-и другие рвбботы представлены во вкладке Репозитории(Repositories) 
+другие работы представлены во вкладке Репозитории(Repositories) 
 #
 ### Мои сертификаты:
 📚https://fructcode.com/ru/certificates/09216f2207269cf07ecba2ea68487579/ru/📚https://fructcode.com/ru/certificates/1d3254ebb5f755f48171f27889dc2546/ru/📚https://fructcode.com/ru/certificates/42ed3c48219697ca5d953406daeb2643/ru/📚https://fructcode.com/ru/certificates/42ed3c48219697ca5d953406daeb2643/ru/📚https://fructcode.com/ru/certificates/8de2034cba5c0561de47541416d12415/ru/📚https://fructcode.com/ru/certificates/e0687325b79264187af81d5c1f0cb871/ru/
