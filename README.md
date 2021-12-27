@@ -11,7 +11,6 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=Firebase)
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 ![SCSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
-etc.
 
 Постоянно учавствоваю в хакатонах(Форум для разработчиков)олимпиадах по программированию например Tatar.Бу Хакатон,Кфу олимпиада по программирование.
 
@@ -36,6 +35,8 @@ etc.
 
 ### Мои сертификаты:
 📚https://fructcode.com/ru/certificates/09216f2207269cf07ecba2ea68487579/ru/📚https://fructcode.com/ru/certificates/1d3254ebb5f755f48171f27889dc2546/ru/📚https://fructcode.com/ru/certificates/42ed3c48219697ca5d953406daeb2643/ru/📚https://fructcode.com/ru/certificates/42ed3c48219697ca5d953406daeb2643/ru/📚https://fructcode.com/ru/certificates/8de2034cba5c0561de47541416d12415/ru/📚https://fructcode.com/ru/certificates/e0687325b79264187af81d5c1f0cb871/ru/
+
+Могу говорить на следующих языках:Русский язык(родной язык),Турецкий,Азербайджанский,Английский.
 
 > "Знание только тогда знание, когда оно приобретено уси­лиями своей мысли, а не памятью.." <br/>
 > ***Лев Толстой***
