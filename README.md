@@ -12,9 +12,11 @@
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 ![SCSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
 etc.
-### ✉️ Моя почта: tair.work2000@gmail.com
-### 📝 Интересные задачи: https://codepen.io/tair-x
-### 🌐 Телеграм @Tair_X
+
+Постоянно учавствоваю в хакатонах(Форум для разработчиков)олимпиадах по программированию например Tatar.Бу Хакатон,Кфу олимпиада по программирование.
+
+Работал в таких извсетных компаниях как Сбербанк России,Футбольный клуб Знамя,fintuity,Asoft,Quantori
+Работаю до сих пор в Epam Sistems(Effective Programming for America).
 
 ### Мои работы:
 🖥️https://tair-x.github.io/Lux_Trader_Layout/
@@ -31,8 +33,13 @@ etc.
 🖥️https://tair-x.github.io/Relvise_Site_Layout/
 🖥️https://tair-x.github.io/Shop_Sneakers_On_React/
 другие работы представлены во вкладке Репозитории(Repositories) 
-#
+
 ### Мои сертификаты:
 📚https://fructcode.com/ru/certificates/09216f2207269cf07ecba2ea68487579/ru/📚https://fructcode.com/ru/certificates/1d3254ebb5f755f48171f27889dc2546/ru/📚https://fructcode.com/ru/certificates/42ed3c48219697ca5d953406daeb2643/ru/📚https://fructcode.com/ru/certificates/42ed3c48219697ca5d953406daeb2643/ru/📚https://fructcode.com/ru/certificates/8de2034cba5c0561de47541416d12415/ru/📚https://fructcode.com/ru/certificates/e0687325b79264187af81d5c1f0cb871/ru/
+
 > "Знание только тогда знание, когда оно приобретено уси­лиями своей мысли, а не памятью.." <br/>
 > ***Лев Толстой***
+
+### ✉️ Моя почта: tair.work2000@gmail.com
+### 📝 Интересные задачи: https://codepen.io/tair-x
+### 🌐 Телеграм @Tair_X
