@@ -1,19 +1,19 @@
 # 👋🏻 Здравствуйте, меня зовут **Таир Хасанджанов**!
-## Я * Программист * из Азербайджана.
+## Я программист из Азербайджана.
 ### Мой сайт: [Tair-X.io](https://tair-x.github.io/Portfolio_Site_Layout/)
 
 ### Мои работы:
-🖥️&nbsp; Сайт аукционов:https://tair-x.github.io/Lux_Trader_Layout/ \
+🖥️&nbsp; Сайт аукционов:[Сайт аукционов](https://tair-x.github.io/Lux_Trader_Layout/) \
 🖥️&nbsp; Сайт юридичекских услуг:https://tair-x.github.io/Adaptive_Layout_Of_The_Website_Of_The_Law_Office/ \
 🖥️&nbsp; Сайт пекарни:https://tair-x.github.io/Responsive_Bakery_Website_Layout/ \
-🖥️&nbsp; Сайт для общения:https://tair-x.github.io/Responsive_SiteLayout_Is_Designed_For_Communication/
-🖥️&nbsp; Сайт для бизнез решений 1:https://tair-x.github.io/Responsive_Website_For_Investment_Platform/
-🖥️&nbsp; Сайт для бизнез решений 1:https://tair-x.github.io/Relvise_Site_Layout/
+🖥️&nbsp; Сайт для общения:https://tair-x.github.io/Responsive_SiteLayout_Is_Designed_For_Communication/ \
+🖥️&nbsp; Сайт для бизнез решений 1:https://tair-x.github.io/Responsive_Website_For_Investment_Platform/ \
+🖥️&nbsp; Сайт для бизнез решений 1:https://tair-x.github.io/Relvise_Site_Layout/ \
 🖥️&nbsp; Интренет магазин чая:https://st.weblancer.net/download/1468529/?detailed=1 \
 🖥️&nbsp; Интернет магазин строительной техники:https://www.sdvor.com/ \
-🖥️&nbsp; Интренет магазин мебели:https://tair-x.github.io/Adaptive_Layout_Of_The_Website_Of_Online_Furniture_Store/
+🖥️&nbsp; Интренет магазин мебели:https://tair-x.github.io/Adaptive_Layout_Of_The_Website_Of_Online_Furniture_Store/ \
 🖥️&nbsp; Приложения для банка:https://tair-x.github.io/Landing_Page_Layout/ \
-🖥️&nbsp; Социальная сеть:https://socialape-7d0b6.firebaseapp.com/
+🖥️&nbsp; Социальная сеть:https://socialape-7d0b6.firebaseapp.com/ \
 
 Самая лучшая работа это приложения DiscussRoom (https://github.com/Tair-X/Club_House_App_Frontend_Backend) 
 я его сделал сам и это социальная сеть в которой есть множество комнат,в которые вы можете присоединиться и начать обсуждать интересующую вас тему и предоставить ссылку всем друзьям она и другие работы представлены во вкладке Репозитории(Repositories) 
