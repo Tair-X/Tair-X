@@ -17,7 +17,11 @@
 🖥️&nbsp; [Интернет магазин строительной техники](https://www.sdvor.com/):https://www.sdvor.com/ \
 🖥️&nbsp; [Интренет магазин мебели](https://tair-x.github.io/Adaptive_Layout_Of_The_Website_Of_Online_Furniture_Store/):https://tair-x.github.io/Adaptive_Layout_Of_The_Website_Of_Online_Furniture_Store/ \
 🖥️&nbsp; [Интренет магазин бассейнов](https://intex-russia.com/):https://intex-russia.com/ \
+🖥️&nbsp; [Интернет магазин компьютерных кресел](https://vicomtorg.ru/):https://vicomtorg.ru/ \
+🖥️&nbsp; [Интернет магазин электротранспорта](https://luxwheel.ru/):https://luxwheel.ru/ \
+🖥️&nbsp; [Крипто кошелек](https://crypto2cloud.com/):https://crypto2cloud.com/ \
 🖥️&nbsp; [Приложения для банка](https://tair-x.github.io/Landing_Page_Layout/):https://tair-x.github.io/Landing_Page_Layout/ \
+🖥️&nbsp; [Сервис для приема безналичных чаевых и донатов](https://cloudtips.ru/):https://cloudtips.ru/ \
 🖥️&nbsp; [Социальная сеть](https://socialape-7d0b6.firebaseapp.com/):https://socialape-7d0b6.firebaseapp.com/ 
 
 Самая лучшая работа это приложения DiscussRoom (https://github.com/Tair-X/Club_House_App_Frontend_Backend) 
