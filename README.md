@@ -9,11 +9,16 @@
 🖥️&nbsp; [Сайт для общения](https://tair-x.github.io/Responsive_SiteLayout_Is_Designed_For_Communication/):https://tair-x.github.io/Responsive_SiteLayout_Is_Designed_For_Communication/ \
 🖥️&nbsp; [Сайт для бизнез решений 1](https://tair-x.github.io/Responsive_Website_For_Investment_Platform/):https://tair-x.github.io/Responsive_Website_For_Investment_Platform/ \
 🖥️&nbsp; [Сайт для бизнез решений 1](https://tair-x.github.io/Relvise_Site_Layout/):https://tair-x.github.io/Relvise_Site_Layout/ \
-🖥️&nbsp; [Интренет магазин чая](https://st.weblancer.net/download/1468529/?detailed=1):https://st.weblancer.net/download/1468529/?detailed=1 \
+🖥️&nbsp; [Платформа для проведения вебинаров онлайн](https://etutorium.ru/):https://etutorium.ru/ \
+🖥️&nbsp; [Сайт по пракату строительного оборудования](https://genprokat.ru/):https://genprokat.ru/1 \
+🖥️&nbsp; [Сайт для медицинского центра](https://cidmedica.ru/):https://cidmedica.ru/ \
+🖥️&nbsp; [Интренет магазин чая](https://www.mlesna.ru/catalog/):https://www.mlesna.ru/catalog/ \
 🖥️&nbsp; [Интернет магазин строительной техники](https://www.sdvor.com/):https://www.sdvor.com/ \
 🖥️&nbsp; [Интренет магазин мебели](https://tair-x.github.io/Adaptive_Layout_Of_The_Website_Of_Online_Furniture_Store/):https://tair-x.github.io/Adaptive_Layout_Of_The_Website_Of_Online_Furniture_Store/ \
+🖥️&nbsp; [Интренет магазин бассейнов](https://intex-russia.com/):https://intex-russia.com/ \
 🖥️&nbsp; [Приложения для банка](https://tair-x.github.io/Landing_Page_Layout/):https://tair-x.github.io/Landing_Page_Layout/ \
-🖥️&nbsp; [Социальная сеть](https://socialape-7d0b6.firebaseapp.com/):https://socialape-7d0b6.firebaseapp.com/ \
+🖥️&nbsp; [Социальная сеть](https://socialape-7d0b6.firebaseapp.com/):https://socialape-7d0b6.firebaseapp.com/ 
+
 
 Самая лучшая работа это приложения DiscussRoom (https://github.com/Tair-X/Club_House_App_Frontend_Backend) 
 я его сделал сам и это социальная сеть в которой есть множество комнат,в которые вы можете присоединиться и начать обсуждать интересующую вас тему и предоставить ссылку всем друзьям она и другие работы представлены во вкладке Репозитории(Repositories) 
