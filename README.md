@@ -8,7 +8,7 @@
 🖥️&nbsp; [Сайт пекарни](https://tair-x.github.io/Responsive_Bakery_Website_Layout/):https://tair-x.github.io/Responsive_Bakery_Website_Layout/ \
 🖥️&nbsp; [Сайт для общения](https://tair-x.github.io/Responsive_SiteLayout_Is_Designed_For_Communication/):https://tair-x.github.io/Responsive_SiteLayout_Is_Designed_For_Communication/ \
 🖥️&nbsp; [Сайт для бизнез решений 1](https://tair-x.github.io/Responsive_Website_For_Investment_Platform/):https://tair-x.github.io/Responsive_Website_For_Investment_Platform/ \
-🖥️&nbsp; [Сайт для бизнез решений 1](https://tair-x.github.io/Relvise_Site_Layout/):https://tair-x.github.io/Relvise_Site_Layout/ \
+🖥️&nbsp; [Сайт для бизнез архитектуры](https://tair-x.github.io/Relvise_Site_Layout/):https://tair-x.github.io/Relvise_Site_Layout/ \
 🖥️&nbsp; [Платформа для проведения вебинаров онлайн](https://etutorium.ru/):https://etutorium.ru/ \
 🖥️&nbsp; [Сайт по пракату строительного оборудования](https://genprokat.ru/):https://genprokat.ru/1 \
 🖥️&nbsp; [Сайт для медицинского центра](https://cidmedica.ru/):https://cidmedica.ru/ \
