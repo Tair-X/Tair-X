@@ -2,6 +2,11 @@
 ## I am a programmer from Azerbaijan.
 ### My site: [Tair-X.io](https://tair-x.github.io/Portfolio_Site_Layout/)
 
+### 🖥️Codewars: https://www.codewars.com/users/Tair-X
+### ✉️ My mail: tair.work2000@gmail.com
+### 📝 Interesting tasks: https://codepen.io/tair-x
+### 🌐 Telegram @Tair_X
+
 ### My works:
 🖥️&nbsp; [Auction website](https://tair-x.github.io/Lux_Trader_Layout/):https://tair-x.github.io/Lux_Trader_Layout/) \
 🖥️&nbsp; [Website for legal services](https://tair-x.github.io/Adaptive_Layout_Of_The_Website_Of_The_Law_Office/):https://tair-x.github.io/Adaptive_Layout_Of_The_Website_Of_The_Law_Office/ \
@@ -66,7 +71,3 @@ I can speak the following languages: Russian (mother tongue), Turkish, Azerbaija
 ![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=Firebase)
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 ![SCSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
-
-### ✉️ My mail: tair.work2000@gmail.com
-### 📝 Interesting tasks: https://codepen.io/tair-x
-### 🌐 Telegram @Tair_X
