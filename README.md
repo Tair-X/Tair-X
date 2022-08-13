@@ -1,17 +1,17 @@
-# 👋🏻 Здравствуйте, меня зовут **Таир Хасанджанов**!
-## Я программист из Азербайджана.
+# 👋🏻 Hello, my name is **Tair Khasanjanov**!
+## I am a programmer from Azerbaijan.
 ### Мой сайт: [Tair-X.io](https://tair-x.github.io/Portfolio_Site_Layout/)
 
-### Мои работы:
-🖥️&nbsp; [Сайт аукционов](https://tair-x.github.io/Lux_Trader_Layout/):https://tair-x.github.io/Lux_Trader_Layout/) \
-🖥️&nbsp; [Сайт юридичекских услуг](https://tair-x.github.io/Adaptive_Layout_Of_The_Website_Of_The_Law_Office/):https://tair-x.github.io/Adaptive_Layout_Of_The_Website_Of_The_Law_Office/ \
-🖥️&nbsp; [Сайт пекарни](https://tair-x.github.io/Responsive_Bakery_Website_Layout/):https://tair-x.github.io/Responsive_Bakery_Website_Layout/ \
-🖥️&nbsp; [Сайт для общения](https://tair-x.github.io/Responsive_SiteLayout_Is_Designed_For_Communication/):https://tair-x.github.io/Responsive_SiteLayout_Is_Designed_For_Communication/ \
-🖥️&nbsp; [Сайт для бизнез решений ](https://tair-x.github.io/Responsive_Website_For_Investment_Platform/):https://tair-x.github.io/Responsive_Website_For_Investment_Platform/ \
-🖥️&nbsp; [Сайт для бизнез архитектуры](https://tair-x.github.io/Relvise_Site_Layout/):https://tair-x.github.io/Relvise_Site_Layout/ \
-🖥️&nbsp; [Сайт грузоперевозок](http://dalslogistics.ru/):http://dalslogistics.ru/ \
-🖥️&nbsp; [Платформа для проведения вебинаров онлайн](https://etutorium.ru/):https://etutorium.ru/ \
-🖥️&nbsp; [Сайт по пракату строительного оборудования](https://genprokat.ru/):https://genprokat.ru/1 \
+### My works:
+🖥️&nbsp; [Auction website](https://tair-x.github.io/Lux_Trader_Layout/):https://tair-x.github.io/Lux_Trader_Layout/) \
+🖥️&nbsp; [Website for legal services](https://tair-x.github.io/Adaptive_Layout_Of_The_Website_Of_The_Law_Office/):https://tair-x.github.io/Adaptive_Layout_Of_The_Website_Of_The_Law_Office/ \
+🖥️&nbsp; [Bakery website](https://tair-x.github.io/Responsive_Bakery_Website_Layout/):https://tair-x.github.io/Responsive_Bakery_Website_Layout/ \
+🖥️&nbsp; [Site for communication](https://tair-x.github.io/Responsive_SiteLayout_Is_Designed_For_Communication/):https://tair-x.github.io/Responsive_SiteLayout_Is_Designed_For_Communication/ \
+🖥️&nbsp; [Website for business solutions](https://tair-x.github.io/Responsive_Website_For_Investment_Platform/):https://tair-x.github.io/Responsive_Website_For_Investment_Platform/ \
+🖥️&nbsp; [Website for business architecture](https://tair-x.github.io/Relvise_Site_Layout/):https://tair-x.github.io/Relvise_Site_Layout/ \
+🖥️&nbsp; [Freight website](http://dalslogistics.ru/):http://dalslogistics.ru/ \
+🖥️&nbsp; [Online webinar platform](https://etutorium.ru/):https://etutorium.ru/ \
+🖥️&nbsp; [Construction equipment rental site](https://genprokat.ru/):https://genprokat.ru/1 \
 🖥️&nbsp; [Сайт для медицинского центра](https://cidmedica.ru/):https://cidmedica.ru/ \
 🖥️&nbsp; [Интренет магазин чая](https://www.mlesna.ru/catalog/):https://www.mlesna.ru/catalog/ \
 🖥️&nbsp; [Интернет магазин строительной техники](https://www.sdvor.com/):https://www.sdvor.com/ \
