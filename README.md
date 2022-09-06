@@ -27,7 +27,6 @@
 🖥️&nbsp; [Crypto Wallet](https://crypto2cloud.com/):https://crypto2cloud.com/ \
 🖥️&nbsp; [Applications for the bank](https://tair-x.github.io/Landing_Page_Layout/):https://tair-x.github.io/Landing_Page_Layout/ \
 🖥️&nbsp; [Service for accepting non-cash tips and donations](https://cloudtips.ru/):https://cloudtips.ru/ \
-🖥️&nbsp; [Social network](https://socialape-7d0b6.firebaseapp.com/):https://socialape-7d0b6.firebaseapp.com/ \
 🖥️&nbsp; [Animation for the site](https://tair-x.github.io/Parallax_Animation_Matthew_Wagerfields/):https://tair-x.github.io/Parallax_Animation_Matthew_Wagerfields/
 
 The best work is an analogue of the Moco Space web application. The app itself (https://www.mocospace.com/login). Source resources (https://github.com/Tair-X/Moco_Space_App_Frontend_Backend). It is a social network, with many rooms that you can join and start discussing the topic of your interest and provide a link to all your friends. You can communicate with others through public chats and private group chats. Connection is confidential, through a reliable messaging system. She and other works are presented in the Repositories tab.
