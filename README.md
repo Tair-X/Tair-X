@@ -1,5 +1,5 @@
 # 👋🏻 Hello, my name is **Tair Khasanjanov**!
-## I am a programmer from Russia.
+## I am a programmer from Azerbaijan.
 ### My site: [Tair-X.io](https://tair-x.github.io/Portfolio_Site_Layout/)
 
 ### 🖥️Codewars: https://www.codewars.com/users/Tair-X
