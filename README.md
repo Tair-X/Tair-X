@@ -32,7 +32,7 @@
 The best work is an analogue of the Moco Space web application. The app itself (https://www.mocospace.com/login). Source resources (https://github.com/Tair-X/Moco_Space_App_Frontend_Backend). It is a social network, with many rooms that you can join and start discussing the topic of your interest and provide a link to all your friends. You can communicate with others through public chats and private group chats. Connection is confidential, through a reliable messaging system. She and other works are presented in the Repositories tab.
 
 My fastest app is an online movie theater on Next js. With a unique backend and a bunch of customized things about the front, is it interesting? 
-Jump on the link 👇
+Jump on the link 👉
 https://github.com/Tair-X/The_Fastest_Cinema_App_Fullstack
 
 ### My certificates:
