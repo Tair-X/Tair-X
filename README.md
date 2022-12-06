@@ -1,11 +1,6 @@
-# 👋🏻 Hello, my name is **Tair Khasanjanov**!
-## I am a programmer from Azerbaijan.
-### My site: [Tair-X.io](https://tair-x.github.io/Portfolio_Site_Layout/)
 
-### 🖥️Codewars: https://www.codewars.com/users/Tair-X
-### ✉️ My mail: tair.work2000@gmail.com
-### 📝 Interesting tasks: https://codepen.io/tair-x
-### 🌐 Telegram @Tair_X
+## I am a programmer from Azerbaijan.
+
 
 ### My works:
 🖥️&nbsp; [Auction website](https://tair-x.github.io/Lux_Trader_Layout/):https://tair-x.github.io/Lux_Trader_Layout/) \
